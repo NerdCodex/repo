@@ -1,0 +1,114 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.0 Chrome/140.0.7339.249 Electron/38.7.2 Safari/537.36" version="29.3.0">
+  <diagram name="Page-1" id="WIV2W3GawCTqmBSxwwPc">
+    <mxGraphModel dx="1042" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RSP5zqJUVjZnWwAPzEb9-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="584" width="302" x="27" y="166" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUXsuGMsmqXQ1qvi5q8-7" edge="1" parent="1" source="1DUXsuGMsmqXQ1qvi5q8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RSP5zqJUVjZnWwAPzEb9-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="197.5" y="144" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DUXsuGMsmqXQ1qvi5q8-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;USER&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="305" x="25.5" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUXsuGMsmqXQ1qvi5q8-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;MANAGE ACCOUNT&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="192" y="247" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUXsuGMsmqXQ1qvi5q8-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;MANAGE EXERCISES&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="45" y="422" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUXsuGMsmqXQ1qvi5q8-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;MANAGE ROUTINES&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="45" y="512" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUXsuGMsmqXQ1qvi5q8-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;MANAGE ROUTINE&lt;br&gt;COMPOSITION&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="192" y="512" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUXsuGMsmqXQ1qvi5q8-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;LOG WORKOUT SESSION&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="45" y="602" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUXsuGMsmqXQ1qvi5q8-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;RECORD EXERCISE PERFORMANCE&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="192" y="602" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUXsuGMsmqXQ1qvi5q8-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;MANAGE MEAL&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="45" y="247" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUXsuGMsmqXQ1qvi5q8-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;TRACK BODY MEASUREMENTS&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="45" y="332" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUXsuGMsmqXQ1qvi5q8-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;BACKUP&lt;br&gt;DATA&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="192" y="332" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUXsuGMsmqXQ1qvi5q8-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;MANAGE FOOD&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="192" y="422" as="geometry" />
+        </mxCell>
+        <mxCell id="RSP5zqJUVjZnWwAPzEb9-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;FITNORA MOBILE APP&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="181" x="87.5" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="RSP5zqJUVjZnWwAPzEb9-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="320" width="175" x="425" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="RSP5zqJUVjZnWwAPzEb9-22" edge="1" parent="1" source="RSP5zqJUVjZnWwAPzEb9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RSP5zqJUVjZnWwAPzEb9-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RSP5zqJUVjZnWwAPzEb9-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;AUTHENTICATION&lt;br&gt;SERVICE&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="440" y="247" as="geometry" />
+        </mxCell>
+        <mxCell id="RSP5zqJUVjZnWwAPzEb9-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;BACKUP&lt;br&gt;SERVICE&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="440" y="331" as="geometry" />
+        </mxCell>
+        <mxCell id="RSP5zqJUVjZnWwAPzEb9-24" edge="1" parent="1" source="RSP5zqJUVjZnWwAPzEb9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RSP5zqJUVjZnWwAPzEb9-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RSP5zqJUVjZnWwAPzEb9-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;FOOD SEARCH&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="440" y="422" as="geometry" />
+        </mxCell>
+        <mxCell id="RSP5zqJUVjZnWwAPzEb9-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;BACKEND&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="181" x="419" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RSP5zqJUVjZnWwAPzEb9-17" edge="1" parent="1" source="1DUXsuGMsmqXQ1qvi5q8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RSP5zqJUVjZnWwAPzEb9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RSP5zqJUVjZnWwAPzEb9-19" edge="1" parent="1" source="1DUXsuGMsmqXQ1qvi5q8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RSP5zqJUVjZnWwAPzEb9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RSP5zqJUVjZnWwAPzEb9-20" edge="1" parent="1" source="1DUXsuGMsmqXQ1qvi5q8-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RSP5zqJUVjZnWwAPzEb9-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RSP5zqJUVjZnWwAPzEb9-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;EMAIL SERVICE&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(GMAIL)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="650" y="247" as="geometry" />
+        </mxCell>
+        <mxCell id="RSP5zqJUVjZnWwAPzEb9-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;GEMINI API&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="650" y="422" as="geometry" />
+        </mxCell>
+        <mxCell id="RSP5zqJUVjZnWwAPzEb9-25" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;FITNORA LOCAL DATABASE&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;(SQFLITE)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="190" x="83" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="RSP5zqJUVjZnWwAPzEb9-26" edge="1" parent="1" source="RSP5zqJUVjZnWwAPzEb9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="RSP5zqJUVjZnWwAPzEb9-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RSP5zqJUVjZnWwAPzEb9-27" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;FITNORA CLOUD DATABASE&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;(MYSQL)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="190" x="417.5" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="RSP5zqJUVjZnWwAPzEb9-29" edge="1" parent="1" source="RSP5zqJUVjZnWwAPzEb9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="RSP5zqJUVjZnWwAPzEb9-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RSP5zqJUVjZnWwAPzEb9-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;REST API&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="181" x="288" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="RSP5zqJUVjZnWwAPzEb9-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;REST API&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="181" x="289" y="251" as="geometry" />
+        </mxCell>
+        <mxCell id="RSP5zqJUVjZnWwAPzEb9-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;REST API&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="181" x="287" y="426" as="geometry" />
+        </mxCell>
+        <mxCell id="Oyy8M8gHPUTl55-jYp2k-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;VIEW PROGRESS OVERVIEW&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="118" y="680" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0" version="29.3.4">
+  <diagram name="Page-1" id="uhCuCqj07zkApfXgyFDo">
+    <mxGraphModel dx="892" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_l1KhT2XmqhmY80mBpaT-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="500" width="300" x="50" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_l1KhT2XmqhmY80mBpaT-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Create New Account" vertex="1">
+          <mxGeometry height="40" width="280" x="60" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="_l1KhT2XmqhmY80mBpaT-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="FITNORA LOGO" vertex="1">
+          <mxGeometry height="80" width="120" x="140" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_l1KhT2XmqhmY80mBpaT-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div align=&quot;left&quot;&gt;&amp;nbsp;Email&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="280" x="60" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_l1KhT2XmqhmY80mBpaT-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&amp;nbsp;Password" vertex="1">
+          <mxGeometry height="40" width="280" x="60" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="_l1KhT2XmqhmY80mBpaT-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Login" vertex="1">
+          <mxGeometry height="40" width="280" x="60" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="_l1KhT2XmqhmY80mBpaT-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Forgot Password" vertex="1">
+          <mxGeometry height="30" width="100" x="150" y="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
